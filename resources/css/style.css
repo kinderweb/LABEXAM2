@@ -1,0 +1,26 @@
+
+body {
+background: linear-gradient(135deg, #b9e5eb, #f1f8e9);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+min-height: 100vh;
+margin: 0;
+padding: 0;
+}
+
+.container {
+background: rgb(195, 224, 161);
+padding: 30px;
+border-radius: 10px;
+box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+margin-top: 40px;
+}
+
+h2 {
+color: #00796b;
+font-weight: bold;
+}
+
+.table-header-custom{
+    background-color: #00796b;
+    color:white;
+}
